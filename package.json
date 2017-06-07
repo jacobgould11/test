@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jasmine"
   },
+  "keywords": [
+	  "groupme bot"
+  ],
   "author": "Jacob Thomann",
   "license": "ISC",
   "devDependencies": {
