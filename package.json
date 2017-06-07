@@ -1,0 +1,14 @@
+{
+  "name": "simple-groupme-bot",
+  "version": "1.0.0",
+  "description": "An easy to use groupme bot api.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Jacob Thomann",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
