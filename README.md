@@ -5,7 +5,9 @@ First, register your bot [here](https://dev.groupme.com/bots/new)
 
 ### Install
 
+```
 npm install simple-groupme-bot
+```
 
 ### Send a message with text, an image and location:
 ```javascript

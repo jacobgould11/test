@@ -1,6 +1,6 @@
 {
   "name": "simple-groupme-bot",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An easy to use groupme bot api.",
   "main": "bot.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [
 	  "groupme bot"
   ],
+  "url": "https://github.com/thomann061/simple-groupme-bot",
   "author": "Jacob Thomann",
   "license": "ISC",
   "devDependencies": {
