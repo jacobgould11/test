@@ -9,7 +9,7 @@
   "keywords": [
 	  "groupme bot"
   ],
-  "url": "https://github.com/thomann061/simple-groupme-bot",
+  "homepage": "https://github.com/thomann061/simple-groupme-bot",
   "author": "Jacob Thomann",
   "license": "ISC",
   "devDependencies": {
