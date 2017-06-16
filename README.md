@@ -1,4 +1,6 @@
 # simple-groupme-bot
+[![Build Status](https://travis-ci.org/thomann061/simple-groupme-bot.svg?branch=master)](https://travis-ci.org/thomann061/simple-groupme-bot)
+
 A simple api for a groupme bot
 
 First, register your bot [here](https://dev.groupme.com/bots/new)
