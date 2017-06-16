@@ -7,7 +7,7 @@
     "test": "jasmine"
   },
   "keywords": [
-	  "groupme bot"
+    "groupme bot"
   ],
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "license": "ISC",
   "devDependencies": {
     "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "requestify": "^0.2.5"
   }
 }
