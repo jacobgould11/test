@@ -40,16 +40,18 @@ Bot.prototype.getMessage = function() {
 
 Bot.prototype.send = function() {
 
-	requestify
-		.post('https://api.groupme.com/v3/bots/post', this.response)
-		.then(function(response) {
+	const promise =
+		requestify
+			.post('https://api.groupme.com/v3/bots/post', this.response)
+			.then(function(response) {
 
-			return response;
-		})
-		.catch(function(reason) {
+				return response;
+			})
+			.catch(function(reason) {
 
-			return reason;
-		});
+				return reason;
+			});
+	return promise;
 }
 
 module.exports = Bot;
