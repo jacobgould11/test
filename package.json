@@ -1,6 +1,6 @@
 {
   "name": "simple-groupme-bot",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An easy to use groupme bot api.",
   "main": "bot.js",
   "scripts": {
