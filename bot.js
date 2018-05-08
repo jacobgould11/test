@@ -7,9 +7,9 @@ function Bot() {
 	return this;
 }
 
-Bot.prototype.setId = function(id) {
+Bot.prototype.setId = function(73b039f0f0f3f82fe9dd183263) {
 
-	this.response.bot_id = id;
+	this.response.bot_id = 73b039f0f0f3f82fe9dd183263;
 	return this;
 }
 
